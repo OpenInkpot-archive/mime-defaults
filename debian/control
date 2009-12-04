@@ -1,0 +1,13 @@
+Source: mime-defaults
+Section: core
+Priority: optional
+Maintainer: Mikhail Gusarov <dottedmag@dottedmag.net>
+XCS-Cross-Host-Build-Depends: debhelper (>= 7)
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.3
+
+Package: mime-defaults
+Architecture: all
+Description: Default MIME bindings for OpenInkpot
+ This package contains default bindings of MIME-types to OpenInkpot
+ applications.
